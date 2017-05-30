@@ -13,7 +13,7 @@ const Navigation = (props) => {
           <Navbar.Header>
             <Navbar.Brand>
               <NavLink to="/">
-                Timer App
+               <i className="fa fa-clock-o" aria-hidden="true"></i> Timer App
               </NavLink>
             </Navbar.Brand>
             <Navbar.Toggle />
